@@ -1,6 +1,6 @@
 # Meow Trading 2026 — Look First, Then Leap (GitHub Pages Flat Edition)
 
-All files in this ZIP are placed **directly in the root (no folders)** so you can drag-and-drop them straight into your GitHub repository (`https://varmanchanthou.github.io/finance/`).
+Hi what are u doing here ? haha bye here's some info , meow 
 
 ## Files in This ZIP (Zero Folders)
 - `index.html` — Main website (with built-in embedded media fallback so videos, audio, and photos always load even on GitHub Pages)
